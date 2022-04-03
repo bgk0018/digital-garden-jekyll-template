@@ -1,0 +1,7 @@
+---
+tags:
+  - npc
+  - friend
+  - suspicious
+---
+---
