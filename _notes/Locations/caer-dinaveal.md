@@ -1,4 +1,5 @@
 ---
-tags
+title: Caer Dinaveal
+tags:
   - location
 ---

@@ -1,4 +1,5 @@
 ---
+title: White Walker
 tags:
   - monster
   - enemy

@@ -1,8 +1,9 @@
 ---
+title: Helga
 tags:
   - player-character
 ---
 
 
 Doesn't like Zari's armor
-Rifled through [[garrett-note-for-zassteeah]]'s bodies
+Rifled through [[Garrett Note For Zassteeah]]'s bodies

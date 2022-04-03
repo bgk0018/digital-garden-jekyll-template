@@ -1,4 +1,5 @@
 ---
+title: Prudence
 tags:
   - npc
   - neutral
@@ -6,5 +7,5 @@ tags:
 ---
 
 * Associated with [[naerth-maxildanarr]]
-* Lives in [[targos]]
-* Found dead at [[targos-prudence-home-encounter]]
+* Lives in [[Targos]]
+* Found dead at [[Targos Prudence Home Encounter]]

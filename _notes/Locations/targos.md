@@ -1,6 +1,7 @@
 ---
+title: Targos
 tags:
   - location
 ---
 
-[[tentown]] city
+[[Tentown]] city

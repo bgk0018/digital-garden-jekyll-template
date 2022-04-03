@@ -1,4 +1,5 @@
 ---
+title: Zari
 tags:
   - player-character
 ---

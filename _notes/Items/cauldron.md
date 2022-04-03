@@ -1,4 +1,5 @@
 ---
+title: Cauldron
 tags:
   - magic-item
 ---

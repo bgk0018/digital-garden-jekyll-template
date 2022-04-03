@@ -1,0 +1,6 @@
+---
+title: Cult
+tags:
+  - group
+---
+

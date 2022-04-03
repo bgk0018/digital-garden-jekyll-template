@@ -1,6 +1,7 @@
 ---
+title: Rexentruum Arms
 tags:
   - location
 ---
 
-Tavern where [[naerth-maxildanarr]] office is in [[targos]]
+Tavern where [[naerth-maxildanarr]] office is in [[Targos]]

@@ -1,4 +1,5 @@
 ---
+title: Torga
 tags:
   - npc
   - suspicious

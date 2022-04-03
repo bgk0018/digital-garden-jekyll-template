@@ -1,4 +1,5 @@
 ---
+title: Sulk
 tags:
   - player-character
 ---

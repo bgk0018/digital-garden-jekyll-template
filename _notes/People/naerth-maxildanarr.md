@@ -1,4 +1,5 @@
 ---
+title: Naerth-Maxildanarr
 tags:
   - npc
   - enemy
@@ -6,7 +7,7 @@ tags:
 ---
 
 
-* Speaker of [[targos]]
+* Speaker of [[Targos]]
 * Potential member of the myriad
 * Had notes on the party
-* [[sam-slippy-robbins]] snuck into his office and found out about a secret stash with a vault and some other items
+* [[Sam Slippy Robbins]] snuck into his office and found out about a secret stash with a vault and some other items

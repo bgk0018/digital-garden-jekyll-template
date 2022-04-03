@@ -1,7 +1,7 @@
 ---
+title: Shandar Froth
 tags:
   - npc
-  - friend
   - suspicious
 ---
----
+
